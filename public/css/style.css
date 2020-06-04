@@ -1,0 +1,29 @@
+body {
+
+  background-color: #DDD;
+	 
+
+}
+
+ .div1{
+ 	width: 98%;
+  padding-right: 5px;
+  padding-left: 5px;
+  margin-right: auto;
+  margin-left: auto;
+ }
+ .icon {
+
+	min-height:2em;
+	
+}
+.login{
+	min-height:5em;
+}
+
+
+.pinput{
+min-width: 30em;
+padding: auto;
+
+}
